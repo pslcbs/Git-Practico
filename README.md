@@ -1,4 +1,4 @@
 # Git-Practico
 Fernando Perez
 
-/*No se si estoy*/
+Ya estamos todos.
